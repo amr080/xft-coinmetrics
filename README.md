@@ -1,2 +1,2 @@
 # X Financial Technologies
-XFT API for crypto data metrics. CRYPTO INTELLIGENCE FOR THE FUTURE OF FINANCE
+XFT API for crypto data metrics. Crypto intelligence for the future of finance
